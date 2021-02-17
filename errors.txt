@@ -1,0 +1,11 @@
+aleatoir  n'est pas un fichier. 
+------------------------------------------ 
+image.jpg   est présent plusq'une fois dans Lnom ( exactement 3 fois ) 
+------------------------------------------ 
+ingenieur  n'est pas un fichier. 
+------------------------------------------ 
+sheet.csv   est présent plusq'une fois dans Lnom ( exactement 2 fois ) 
+------------------------------------------ 
+test.txt  : erreur dans le nom du fichier (longueur != 5 charactères). 
+test.txt   est présent plusq'une fois dans Lnom ( exactement 2 fois ) 
+------------------------------------------ 
